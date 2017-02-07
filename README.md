@@ -1,4 +1,4 @@
-# AdivinadorNumerosRomanos
+# machine learning 
 
 El presente proyecto tiene como objetivo Crear una aplicación web clasificadora 
 de dibujos simples como son los numeros Romanos Utilizando Html5 como cliente y glassfish como servidor en JAVA; 
